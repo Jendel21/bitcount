@@ -1,0 +1,12 @@
+#include "bitCount.h"
+#include <stdint.h>
+int bitCount (unsigned int n);
+
+int main ()
+{
+	printf("# 1-bit in base 2 representation of %u = %d, should be )\n", 0 bitCount(0);
+}
+
+
+
+unsigned int bit_clz_general(unsigned int v)
